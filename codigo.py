@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 
-aiModel = OpenAI(api_key="AQ.Ab8RN6IimDGDy6dyF_PS1Wz3RF-vj2wvKj_d5RX_hwEFNpnDKQ",
+aiModel = OpenAI(api_key="AQ.Ab8RN6Jmhu7lTulqxlsitEWiBSxv1Vcx1HsKSFBvvJAY_S5MbA",
                  base_url="https://generativelanguage.googleapis.com/v1beta/openai")
 
 
